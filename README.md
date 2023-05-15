@@ -17,8 +17,8 @@ The languages and frameworks used to develop the quotes web application are **py
 
 #### Setup Instructions and Installation
 
-- Clone this repository to your computer. `git clone https://github.com/Clinton-dev/Rotary-Blood-Bank.git`
-- Open terminal command line then navigate to the root folder `cd Rotary-Blood-Bank`
+- Clone this repository to your computer. `git clone https://github.com/Clinton-dev/python-80-projects.git`
+- Open terminal command line then navigate to the root folder `cd python-80-projects`
 - Create virtual environment `python3 -m venv --without-pip <virtual environment name>`
 - Run your virtual environment `source <virtual environment name>/bin/activate`
 - Install other extensions required for the app to run `pip install -r requirements.txt`
